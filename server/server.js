@@ -125,4 +125,4 @@ app.listen(PORT, () => {
 });
 
 
-//this file can also handle the proxy servers when gemini or cluade api dont work
+//this file can also handle the proxy servers when gemini or cluade api dont work, enables api callss
